@@ -1,0 +1,18 @@
+[
+	{
+		url: "/",
+		title: "Home"
+	},
+	{
+		url: "/buy",
+		title: "Buy"
+	},
+	{
+		url: "/faq",
+		title: "FAQ"
+	},
+	{
+		url: "/contact",
+		title: "Contact"
+	}
+]

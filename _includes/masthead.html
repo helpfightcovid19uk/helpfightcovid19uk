@@ -1,0 +1,18 @@
+<div class="container">
+	<div class="row">
+		<div class="col">
+			<nav class="navbar navbar-expand">
+				<div class="collapse navbar-collapse" id="navbarNav">
+					<ul class="nav navbar-nav ml-auto">
+					{% for link in site.data.nav %}
+						{% capture cleanurl %}{{ page.url | remove: ".html" }}{% endcapture %}
+						<li class="nav-item{% if cleanurl == link.url %} active{% endif %}">
+							<a class="nav-link" href="{{ link.url }}">{{ link.title }}</a>
+						</li>
+					{% endfor %}
+					</ul>
+				  </div>
+			</nav>
+		</div>
+	</div>
+</div>
