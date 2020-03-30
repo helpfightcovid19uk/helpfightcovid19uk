@@ -62,16 +62,18 @@ nav.navbar ul li a {
 
 /* Page Elements */
 
-button.buy-button {
+a.buy-button {
 	width: 100%;
 	color: #fff;
 	background-color: #005eb8;
+	border-color: #005eb8;
 	font-weight: 600;
 }
 
-button.buy-button:hover,
-button.buy-button:focus {
+a.buy-button:hover,
+a.buy-button:focus {
 	background-color: #f8981d;
+	border-color: #f8981d;
 }
 
 
@@ -125,8 +127,12 @@ button.buy-button:focus {
 
 /* Carousel */
 
-.carousel-item {
+.homepage .carousel-item {
 	background-color: #005eb8;
+}
+
+.buypage .carousel-item {
+	background-color: #ccc;
 }
 
 
@@ -149,12 +155,4 @@ footer #mc_embed_signup_scroll label {
 	font-size: 1.4rem;
 	font-weight: 600;
 	
-}
-
-footer a.terms {
-	color: #000;
-}
-footer a.terms:hover,
-footer a.terms:focus {
-	text-decoration: none;
 }

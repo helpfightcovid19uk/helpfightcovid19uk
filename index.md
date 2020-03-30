@@ -84,7 +84,7 @@ title: Home
 *	Purchases must be completed through the site, via our link in order to count - not through the app.
 
 </div>
-				<button type="button" class="btn buy-button">Shop now</button>
+				<a class="btn btn-primary buy-button" href="/buy" role="button">Shop now</a>
 			</div>
 		</div>
 	</div>
@@ -193,7 +193,7 @@ title: Home
 				<div class="alert alert-light mt-4 mb-4" role="alert">
 					* Minus our running costs of up to 10%.
 				</div>
-				<button type="button" class="btn buy-button">Buy from Amazon now, support our NHS!</button>
+				<a class="btn btn-primary buy-button" href="/buy" role="button">Buy from Amazon now, support our NHS!</a>
 			</div>
 		</div>
 	</div>
