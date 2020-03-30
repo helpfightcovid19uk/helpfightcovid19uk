@@ -16,7 +16,31 @@
 	
 	<script>
 		function contactSubmit(token) {
-			document.getElementById("contact-form").submit();
+		
+			  const form = document.getElementById("contact-form");
+
+			  let data = {};
+			  let formdata = new FormData(form);
+			  for (let tuple of formdata.entries()) data[tuple[0]] = tuple[1];
+			  
+			  fetch(form.action, {
+				method: form.method,
+				body: JSON.stringify(data),
+				headers: {
+					'X-Debug-Mode': 'true'
+				}
+			  })
+			  .then(response => {
+				return response.json()
+			  })
+			  .then(data => {
+				window.location.href = data.headers.location
+			  })
+			  .catch(err => {
+				console.log('error')
+			  });
+
+			  e.preventDefault();
 		}
 	</script>
 

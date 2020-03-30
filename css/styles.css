@@ -6,6 +6,20 @@ Yellow - #f8981d
 
 */
 
+.bg-blue {
+	background-color: #005eb8;
+}
+.bc-blue {
+	border-color: #005eb8;
+}
+
+.bg-yellow {
+	background-color: #f8981d;
+}
+.bc-yellow {
+	border-color: #f8981d;
+}
+
 
 /* Navbar */
 
@@ -113,4 +127,34 @@ button.buy-button:focus {
 
 .carousel-item {
 	background-color: #005eb8;
+}
+
+
+/* Footer */
+
+footer {
+	background-color: #ddd;
+	margin-top: 3rem;
+}
+footer .container {
+	padding: 3rem 0;
+}
+footer .row {
+	margin-bottom: 3rem;
+	text-align: center;
+}
+
+footer #mc_embed_signup_scroll label {
+	display: block;
+	font-size: 1.4rem;
+	font-weight: 600;
+	
+}
+
+footer a.terms {
+	color: #000;
+}
+footer a.terms:hover,
+footer a.terms:focus {
+	text-decoration: none;
 }

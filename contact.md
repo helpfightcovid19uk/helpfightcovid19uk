@@ -21,5 +21,5 @@ We aim to get back to you as soon as we can. Please note that we cannot help you
     <label for="contactMessage">Your message</label>
     <textarea class="form-control" name="message" id="contactMessage" rows="5"></textarea>
   </div>
-  <button class="btn btn-primary g-recaptcha" data-sitekey="6LdPLuUUAAAAAOjPbeRqYUkWAkJOvoddbqm3zPjI" data-callback="contactSubmit">Send</button>
+  <button class="btn btn-primary g-recaptcha w-100 bg-blue bc-blue" data-sitekey="6LdPLuUUAAAAAOjPbeRqYUkWAkJOvoddbqm3zPjI" data-callback="contactSubmit">Send</button>
 </form>
