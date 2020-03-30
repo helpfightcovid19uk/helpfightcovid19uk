@@ -76,6 +76,22 @@ a.buy-button:focus {
 	border-color: #f8981d;
 }
 
+a.facebook {
+	background-color: #3b5998;
+	border-color: #3b5998;
+	color: #fff;
+}
+a.facebook:hover,
+a.facebook:focus {
+	opacity: 0.8;
+	background-color: #3b5998;
+	border-color: #3b5998;
+	color: #fff;
+}
+a.facebook img {
+	color: #fff;
+}
+
 
 /* Accordion */
 
