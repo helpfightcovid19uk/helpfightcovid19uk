@@ -7,7 +7,7 @@ title: Buy
 	<div class="row">
 <div class="col" markdown="1">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Order from Amazon AND raise money for the NHS? Now there's something we can get behind. You can too. Click the relevant link below and place your order. We'll raise commission and donate 100% of our profits to charities who support the NHS.
 
 </div>
 	</div>
@@ -25,51 +25,59 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 			</ol>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img class="d-block w-50 pb-4 mx-auto" src="..." style="height: 200px;" alt="First slide">
+					<img class="d-block w-50 pb-4 mx-auto" src="https://via.placeholder.com/200.png" alt="First slide">
 					<div class="carousel-caption d-none d-md-block">
-						<h5>Placeholder</h5>
+						<h5>Fashion</h5>
+						<a href="https://amazon.com" class="stretched-link"></a>
 					</div>
 				</div>
 				<div class="carousel-item">
-					<img class="d-block w-50 pb-4 mx-auto" src="..." style="height: 200px;" alt="Second slide">
+					<img class="d-block w-50 pb-4 mx-auto" src="https://via.placeholder.com/200.png" alt="Second slide">
 					<div class="carousel-caption d-none d-md-block">
-						<h5>Placeholder</h5>
+						<h5>Electronics</h5>
+						<a href="https://amazon.com" class="stretched-link"></a>
 					</div>
 				</div>
 				<div class="carousel-item">
-					<img class="d-block w-50 pb-4 mx-auto" src="..." style="height: 200px;" alt="Third slide">
+					<img class="d-block w-50 pb-4 mx-auto" src="https://via.placeholder.com/200.png" alt="Third slide">
 					<div class="carousel-caption d-none d-md-block">
-						<h5>Placeholder</h5>
+						<h5>Beauty</h5>
+						<a href="https://amazon.com" class="stretched-link"></a>
 					</div>
 				</div>
 				<div class="carousel-item">
-					<img class="d-block w-50 pb-4 mx-auto" src="..." style="height: 200px;" alt="Fourth slide">
+					<img class="d-block w-50 pb-4 mx-auto" src="https://via.placeholder.com/200.png" alt="Fourth slide">
 					<div class="carousel-caption d-none d-md-block">
-						<h5>Placeholder</h5>
+						<h5>Sports</h5>
+						<a href="https://amazon.com" class="stretched-link"></a>
 					</div>
 				</div>
 				<div class="carousel-item">
-					<img class="d-block w-50 pb-4 mx-auto" src="..." style="height: 200px;" alt="Fifth slide">
+					<img class="d-block w-50 pb-4 mx-auto" src="https://via.placeholder.com/200.png" alt="Fifth slide">
 					<div class="carousel-caption d-none d-md-block">
-						<h5>Placeholder</h5>
+						<h5>Outdoor</h5>
+						<a href="https://amazon.com" class="stretched-link"></a>
 					</div>
 				</div>
 				<div class="carousel-item">
-					<img class="d-block w-50 pb-4 mx-auto" src="..." style="height: 200px;" alt="Sixth slide">
+					<img class="d-block w-50 pb-4 mx-auto" src="https://via.placeholder.com/200.png" alt="Sixth slide">
 					<div class="carousel-caption d-none d-md-block">
-						<h5>Placeholder</h5>
+						<h5>Furniture</h5>
+						<a href="https://amazon.com" class="stretched-link"></a>
 					</div>
 				</div>
 				<div class="carousel-item">
-					<img class="d-block w-50 pb-4 mx-auto" src="..." style="height: 200px;" alt="Seventh slide">
+					<img class="d-block w-50 pb-4 mx-auto" src="https://via.placeholder.com/200.png" alt="Seventh slide">
 					<div class="carousel-caption d-none d-md-block">
-						<h5>Placeholder</h5>
+						<h5>Garden</h5>
+						<a href="https://amazon.com" class="stretched-link"></a>
 					</div>
 				</div>
 				<div class="carousel-item">
-					<img class="d-block w-50 pb-4 mx-auto" src="..." style="height: 200px;" alt="Eighth slide">
+					<img class="d-block w-50 pb-4 mx-auto" src="https://via.placeholder.com/200.png" alt="Eighth slide">
 					<div class="carousel-caption d-none d-md-block">
-						<h5>Placeholder</h5>
+						<h5>Office</h5>
+						<a href="https://amazon.com" class="stretched-link"></a>  
 					</div>
 				</div>
 			</div>
@@ -86,27 +94,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	<div class="row mt-4 d-lg-flex d-none">
 		<div class="card-deck col-12 mx-auto">
 			<div class="card bg-dark text-white">
-				<img class="card-img" src="..." style="height: 200px;" alt="Card image">
+				<img class="card-img" src="https://via.placeholder.com/200.png" alt="Card image">
 				<div class="card-img-overlay">
-					<h5 class="card-title">Placeholder</h5>
+					<h5 class="card-title">Fashion</h5>
+					<a href="https://amazon.com" class="stretched-link"></a>
 				</div>
 			</div>
 			<div class="card bg-dark text-white">
-				<img class="card-img" src="..." alt="Card image">
+				<img class="card-img" src="https://via.placeholder.com/200.png" alt="Card image">
 				<div class="card-img-overlay">
-					<h5 class="card-title">Placeholder</h5>
+					<h5 class="card-title">Electronics</h5>
+					<a href="https://amazon.com" class="stretched-link"></a>
 				</div>
 			</div>
 			<div class="card bg-dark text-white">
-				<img class="card-img" src="..." alt="Card image">
+				<img class="card-img" src="https://via.placeholder.com/200.png" alt="Card image">
 				<div class="card-img-overlay">
-					<h5 class="card-title">Placeholder</h5>
+					<h5 class="card-title">Beauty</h5>
+					<a href="https://amazon.com" class="stretched-link"></a>
 				</div>
 			</div>
 			<div class="card bg-dark text-white">
-				<img class="card-img" src="..." alt="Card image">
+				<img class="card-img" src="https://via.placeholder.com/200.png" alt="Card image">
 				<div class="card-img-overlay">
-					<h5 class="card-title">Placeholder</h5>
+					<h5 class="card-title">Sports</h5>
+					<a href="https://amazon.com" class="stretched-link"></a>
 				</div>
 			</div>
 		</div>
@@ -115,27 +127,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	<div class="row d-lg-flex d-none">
 		<div class="card-deck col-12 mx-auto">
 			<div class="card bg-dark text-white">
-				<img class="card-img" src="..." style="height: 200px;" alt="Card image">
+				<img class="card-img" src="https://via.placeholder.com/200.png" alt="Card image">
 				<div class="card-img-overlay">
-					<h5 class="card-title">Placeholder</h5>
+					<h5 class="card-title">Outdoor</h5>
+					<a href="https://amazon.com" class="stretched-link"></a>
 				</div>
 			</div>
 			<div class="card bg-dark text-white">
-				<img class="card-img" src="..." alt="Card image">
+				<img class="card-img" src="https://via.placeholder.com/200.png" alt="Card image">
 				<div class="card-img-overlay">
-					<h5 class="card-title">Placeholder</h5>
+					<h5 class="card-title">Furniture</h5>
+					<a href="https://amazon.com" class="stretched-link"></a>
 				</div>
 			</div>
 			<div class="card bg-dark text-white">
-				<img class="card-img" src="..." alt="Card image">
+				<img class="card-img" src="https://via.placeholder.com/200.png" alt="Card image">
 				<div class="card-img-overlay">
-					<h5 class="card-title">Placeholder</h5>
+					<h5 class="card-title">Garden</h5>
+					<a href="https://amazon.com" class="stretched-link"></a>
 				</div>
 			</div>
 			<div class="card bg-dark text-white">
-				<img class="card-img" src="..." alt="Card image">
+				<img class="card-img" src="https://via.placeholder.com/200.png" alt="Card image">
 				<div class="card-img-overlay">
-					<h5 class="card-title">Placeholder</h5>
+					<h5 class="card-title">Office</h5>
+					<a href="https://amazon.com" class="stretched-link"></a>
 				</div>
 			</div>
 		</div>
