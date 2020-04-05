@@ -5,8 +5,15 @@
 				<div class="collapse navbar-collapse" id="navbarNav">
 					<ul class="nav navbar-nav ml-auto">
 					{% for link in site.data.nav %}
-						{% capture cleanurl %}{{ page.url | remove: ".html" }}{% endcapture %}
-						<li class="nav-item{% if cleanurl == link.url %} active{% endif %}">
+						{% assign cleanurl = page.url | remove: ".html" %}
+						{% if cleanurl == link.url %}
+							{% assign isactive = true %}
+						{% elsif page.layout == "post" and link.url == "/blog" %}
+							{% assign isactive = true %}
+						{% else %}
+							{% assign isactive = false %}
+						{% endif %}
+						<li class="nav-item{% if isactive %} active{% endif %}">
 							<a class="nav-link" href="{{ link.url }}">{{ link.title }}</a>
 						</li>
 					{% endfor %}
