@@ -8,6 +8,10 @@
 		title: "Buy"
 	},
 	{
+		url: "/blog",
+		title: "Blog"
+	},
+	{
 		url: "/faq",
 		title: "FAQ"
 	},

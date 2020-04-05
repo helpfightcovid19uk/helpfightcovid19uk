@@ -59,6 +59,15 @@ nav.navbar ul li a {
 	max-width: 100%;
 }
 
+/* Minitron */
+
+.minitron.masthead {
+	padding: 0;
+}
+.minitron img {
+	max-width: 100%;
+}
+
 
 /* Page Elements */
 
